@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Javascript, Python, React and so on.
+
 
 <!--
 **cocoball200/cocoball200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
