@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript, Python, React and so on.
+- 🌱 I’m currently learning Javascript, React and so on.
 
 
 <!--
