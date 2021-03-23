@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript, React and so on.
+- 🌱 
+- [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200)](https://github.com/cocoball200/github-readme-stats)
 
 
 <!--
