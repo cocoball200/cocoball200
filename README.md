@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon Byeon&fontSize=90)
+
 ### 안녕하세요~! 👋
 - 곧 신입개발자가 될 변미현입니다 🌱 🌱  
 - 처음 프로그래밍을 Java로 시작하여, 파이썬을 거쳐, 현재는 자바스크립트에 정착하여, 열심히 개발공부를 하고 있습니다! 
