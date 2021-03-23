@@ -6,8 +6,8 @@
 - 자바스크립트의 유연함이 좋아서, 자바스크립트를 좋아하게 되었지만, 현재는 자바스크립트의 유연함의 문제를 경험하고, 타입스크립트를 공부하고 있습니다! 
 - 자바스크립트의 라이브러리인 리액트를 활용하여, 컴포넌트를 재사용하면서 두개의 프로젝트를 완료하였습니다.
 - 현재는 리액트와 타입스크립트를 사용하여 프로젝트를 하고 있습니다. 
-- 
-- [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula)](https://github.com/cocoball200/github-readme-stats)
+
+ [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula)](https://github.com/cocoball200/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 <!--
