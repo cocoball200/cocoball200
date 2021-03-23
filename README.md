@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon Byeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon%20Byeon&fontSize=90)
 
 ### 안녕하세요~! 👋
 - 곧 신입개발자가 될 변미현입니다 🌱 🌱  
