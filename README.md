@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon%20Byeon&fontSize=90&hide=stars)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon%20Byeon&fontSize=90)
 
 ### 안녕하세요~! 👋
 <pre>
@@ -9,7 +9,7 @@
 - 자바스크립트의 라이브러리인 리액트를 활용하여, 컴포넌트를 재사용하면서 두개의 프로젝트를 완료하였습니다.
 - 현재는 리액트와 타입스크립트를 사용하여 프로젝트를 하고 있습니다. 
 
- [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula)](https://github.com/cocoball200/github-readme-stats)
+ [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula&hide=stars)](https://github.com/cocoball200/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 <!--
