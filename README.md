@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon%20Byeon&fontSize=90)
 
-<p align=center>안녕하세요~! 👋<p>
+<p align=center font-size=20px color=#274472>안녕하세요~! 👋<p>
 <pre>
 곧 신입개발자가 될 변미현입니다 🌱 🌱  
 </pre>
