@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 
-- [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=radical)](https://github.com/cocoball200/github-readme-stats)
+- [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula)](https://github.com/cocoball200/github-readme-stats)
 
 
 <!--
