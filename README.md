@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MiHyeon%20Byeon&fontSize=90)
 <p>
  <em> <b>안녕하세요~!</b> 👋
   곧 신입개발자가 될 <b>변미현</b>입니다 🌱 🌱 <br>
@@ -15,7 +14,6 @@
 
  [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula&hide=stars)](https://github.com/cocoball200/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
 <!--
 **cocoball200/cocoball200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
