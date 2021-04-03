@@ -1,29 +1,13 @@
 <p>
- <em> <b>안녕하세요~!</b> 👋
+ <em> <b>Hey there, 안녕하세요~!</b> 👋
   신입개발자가 될 <b>변미현</b>입니다 🌱 🌱 <br>
-  <br>
- - 처음 프로그래밍을 Java로 시작하여, 파이썬을 거쳐, 현재는 자바스크립트를 기반한 Typescript를 공부하고 있습니다. <br>
+  (될을 빼고 싶어요ㅠㅠ🙏)
+  <br>*
+ - 저는 8개월 정도 프로그래밍을 공부했습니다. 중간에 영어공부와 다른 일을 하면서 조금 공백이 있지만, 꾸준하게 프로그래밍을 공부해왔습니다.
+ - 프로그래밍을 Java로 시작하여, 파이썬을 거쳐, 현재는 자바스크립트를 기반한 Typescript를 공부하고 있습니다. <br>
 - 자바스크립트의 라이브러리인 리액트를 활용하여, 컴포넌트를 재사용하면서 두개의 프로젝트를 완료하였습니다.<br>
+- 프로젝트 후기와 영상은 https://hellomia.me 여기서 보실 수 있습니다. 아직 블로그 초기 단계라서.. 조금 에러가 있습니다🙏
 - 현재는 리액트와 타입스크립트를 사용하여 프로젝트를 하고 있습니다. <br>
  </em>
- 
- 
-
  </p>
 
- [![Mihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoball200&count_private=true&show_icons=true&theme=dracula&hide=stars)](https://github.com/cocoball200/github-readme-stats)
-
-<!--
-**cocoball200/cocoball200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
