@@ -1,8 +1,9 @@
 <p>
- <em> <b>Hi there, 안녕하세요~!</b> 👋
- <p> 신입 개발자입니다. 🌱🌱 </p>
- </em>
+ 
+ Major Stack: Javascript, Typescript, React.js </br>
+ Experienced style, UI Library and Framework: Stylecomponents, TaildwindsCSS, SaaS, Antd </br>
  </br>
- </em>
- </p>
-
+ Now Studying </br>
+ Node.js to make server by myself.  </br>
+ 
+</p>
