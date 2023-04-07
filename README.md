@@ -1,10 +1,10 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihyeon) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cocoball200) 
+
 
 # MIHYEON BYEON
 
-[dev.mihyeon@gmail.com](mailto:dev.mihyeon@gmail.com) | [www.linkedin.com/in/mihyeon](https://www.linkedin.com/in/mihyeon) | [https://github.com/cocoball200](https://github.com/cocoball200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihyeon) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cocoball200) 
 
 ## SUMMARY
 
