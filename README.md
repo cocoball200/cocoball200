@@ -5,6 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihyeon) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cocoball200) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mihyeon@gmail.com)
+
 
 ## SUMMARY
 
@@ -24,5 +26,4 @@ I am a front-end engineer with a strong sense of self-motivation for solving pro
 - **Jira** <img src="https://img.icons8.com/color/20/000000/jira.png"/>
 
 ## EXPERIENCE
-
 
