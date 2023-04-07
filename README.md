@@ -12,7 +12,7 @@
 -  I'm in London (I'm open to relocating any cities)
 -  I participated in some commercial projects from scratch. 
 -  If you find someone who have experience from scartch to market, 🙋🏻‍♀️
--  I'm proficient in Korean and English
+-  I'm proficient in speaking and writing Korean and English
 
 ## TECHNICAL SKILLS
 
